@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bhoopendra 
 
 
-**BhoopendraChaurasia/BhoopendraChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **BhoopendraChaurasia/BhoopendraChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 I am to building professional websites development like as back-end developemt and front-end developemt. Experienced with a demonstrated history of working in the information technology and services industries. Skilled in FrontEnd Technologies as React.js, Vue js, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, MySQL,for web and window-based applications and in Back-end technology as Node js, Express js, PHP, CodeIgniter, Laravel, Python, Django.
 
