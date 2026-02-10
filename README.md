@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am to building professional websites development like as back-end developemt and front-end developemt. Experienced with a demonstrated history of working in the information technology and services industries. Skilled in FrontEnd Technologies as React.js, Vue js, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, MySQL,for web and window-based applications and in Back-end technology as Node js, Express js, PHP, CodeIgniter, Laravel, Python, Django.
+I am to building professional websites development like as back-end developemt and front-end developemt. Experienced with a demonstrated history of working in the information technology and services industries. Skilled in FrontEnd Technologies as React.js, Vue js, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, MySQL,for web and window-based applications and in Back-end technology as Java, Spring Boot, RestAPIs, GraphQL APIs, MicroServices, Node js, Express js, PHP, CodeIgniter, Laravel, Python, Django.
 
 Apart from my professional journey, I am a learner and enthusiastic to learn new tech. I have created 8+ mini & major projects on PHP, Node js and other technologies. Also deployed and having live-hosted projects, checkout out my GitHub for more details.
 
