@@ -2,77 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <title>Bhoopendra | Full Stack Developer</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #0f172a;
-      color: #e2e8f0;
-      line-height: 1.6;
-    }
-
-    header {
-      text-align: center;
-      padding: 40px;
-      background: linear-gradient(90deg, #6366f1, #06b6d4);
-      color: white;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-
-    h2 {
-      color: #38bdf8;
-      border-bottom: 2px solid #334155;
-      padding-bottom: 5px;
-    }
-
-    section {
-      padding: 30px 60px;
-    }
-
-    .card {
-      background: #1e293b;
-      padding: 20px;
-      margin: 15px 0;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.3);
-    }
-
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-
-    ul li {
-      padding: 5px 0;
-    }
-
-    .tag {
-      display: inline-block;
-      background: #334155;
-      color: #38bdf8;
-      padding: 5px 10px;
-      margin: 5px;
-      border-radius: 20px;
-      font-size: 0.9rem;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #020617;
-      color: #94a3b8;
-    }
-
-    .highlight {
-      color: #22c55e;
-      font-weight: bold;
-    }
-  </style>
 </head>
 <body>
 
@@ -84,7 +15,7 @@
 <section>
   <h2>👨‍💻 About Me</h2>
   <div class="card">
-    <p>
+    <p  style="color:blue;">
       I am a <span class="highlight">Senior Full Stack Developer</span> with strong experience in building scalable and high-performance web and enterprise applications.
       I specialize in both frontend and backend development, delivering end-to-end solutions.
     </p>
