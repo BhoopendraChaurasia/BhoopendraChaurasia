@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <title>Bhoopendra | Full Stack Developer</title>
 </head>
 <body>
 
 <header>
-  <h1>👨‍💻 Bhoopendra Chaurasia</h1>
+  <h1 style="color:red;">👨‍💻 Bhoopendra Chaurasia</h1>
   <p>🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
 </header>
 
