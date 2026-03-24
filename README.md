@@ -7,7 +7,8 @@
 
 <header>
   <h1 align="center">👨‍💻 Bhoopendra Chaurasia</h1>
-  <p>🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
+  <p align="center">🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
+  
 </header>
 
 <section>
