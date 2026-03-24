@@ -98,7 +98,7 @@
   <h2>🛠️ Tech Stack</h2>
   <div class="card">
     <h3>Frontend</h3>
-    <span class="tag">React.js</span>
+    <span style="background-color: green;" class="tag">React.js</span>
     <span class="tag">Vue.js</span>
     <span class="tag">JavaScript</span>
     <span class="tag">TypeScript</span>
