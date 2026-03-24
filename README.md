@@ -122,7 +122,7 @@
 </section>
 
 <footer>
-  <p>© 2026 Bhoopendra Chaurasia | Portfolio</p>
+  <p>© 2026 Bhoopendra Chaurasia | <a href="https://bhoopendrachaurasia.github.io/">Portfolio</a></p>
 </footer>
 
 </body>
