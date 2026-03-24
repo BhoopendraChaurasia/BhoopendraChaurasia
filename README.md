@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bhoopendra | Full Stack Developer</title>
 </head>
 <body>
 
 <header>
-  <h1 style="color:red;">👨‍💻 Bhoopendra Chaurasia</h1>
+  <h1 style="">👨‍💻 Bhoopendra Chaurasia</h1>
+    <p align="center">
+    <b style="color:red;">Bhoopendra Chaurasia</b>
+  </p>
   <p>🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
 </header>
 
