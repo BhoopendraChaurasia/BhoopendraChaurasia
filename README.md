@@ -6,10 +6,7 @@
 <body>
 
 <header>
-  <h1 style="">👨‍💻 Bhoopendra Chaurasia</h1>
-    <p align="center">
-    <b style="color:red;">Bhoopendra Chaurasia</b>
-  </p>
+  <h1 align="center">👨‍💻 Bhoopendra Chaurasia</h1>
   <p>🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
 </header>
 
