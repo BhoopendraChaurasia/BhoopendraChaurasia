@@ -1,30 +1,199 @@
-<h1 style="text-align: center;">Hi there 👋 I'm Bhoopendra </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bhoopendra | Full Stack Developer</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
 
+    header {
+      text-align: center;
+      padding: 40px;
+      background: linear-gradient(90deg, #6366f1, #06b6d4);
+      color: white;
+    }
 
-<!-- **BhoopendraChaurasia/BhoopendraChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
 
-Here are some ideas to get you started:
+    h2 {
+      color: #38bdf8;
+      border-bottom: 2px solid #334155;
+      padding-bottom: 5px;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    section {
+      padding: 30px 60px;
+    }
 
-I am to building professional websites development like as back-end developemt and front-end developemt. Experienced with a demonstrated history of working in the information technology and services industries. Skilled in FrontEnd Technologies as React.js, Vue js, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, MySQL,for web and window-based applications and in Back-end technology as Java, Spring Boot, RestAPIs, GraphQL APIs, MicroServices, Node js, Express js, PHP, CodeIgniter, Laravel, Python, Django.
+    .card {
+      background: #1e293b;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
 
-Apart from my professional journey, I am a learner and enthusiastic to learn new tech. I have created 8+ mini & major projects on PHP, Node js and other technologies. Also deployed and having live-hosted projects, checkout out my GitHub for more details.
+    ul {
+      list-style: none;
+      padding: 0;
+    }
 
-Responsibilities- Developing new user-facing features using Vue.js Building reusable components and front-end libraries for future use Translating designs into high quality code Optimizing components for maximum performance Optimizing performance of the application. Troubleshooting the bugs
+    ul li {
+      padding: 5px 0;
+    }
 
-Skills- Intermediate proficiency in JavaScript and the JavaScript object model In-depth understanding of Vue js, React.js and its core principles Experience with popular React.js workflows (Redux) Experience with React Hooks and building custom react-hooks Familiarity with newer specifications of ECMAScript Knowledge of server-side rendering Familiarity with RESTful APIs Knowledge of Typescript Knowledge of Redux middleware such as Redux Saga & Redux Thunk Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc. Ability to understand business requirements and translate them into technical requirements Familiarity with common tools such as Git, Bitbucket
+    .tag {
+      display: inline-block;
+      background: #334155;
+      color: #38bdf8;
+      padding: 5px 10px;
+      margin: 5px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
 
-Skills: Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · Vue js . React.js · JavaScript · HTML · Solidity · web3 · GitHub
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #020617;
+      color: #94a3b8;
+    }
 
-Also, I play a role as a Blockcahin Developer at CISS apart from my existing role and responsibilities in the project.
-<!-- Getting an opportunity to interact with many people and sharing thoughts out of the box -->
+    .highlight {
+      color: #22c55e;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
 
+<header>
+  <h1>👨‍💻 Bhoopendra Chaurasia</h1>
+  <p>🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
+</header>
+
+<section>
+  <h2>👨‍💻 About Me</h2>
+  <div class="card">
+    <p>
+      I am a <span class="highlight">Senior Full Stack Developer</span> with strong experience in building scalable and high-performance web and enterprise applications.
+      I specialize in both frontend and backend development, delivering end-to-end solutions.
+    </p>
+    <p>💡 Passionate about learning new technologies</p>
+    <p>📈 Experienced in production-level projects</p>
+    <p>🌐 Developed and deployed <span class="highlight">8+ live projects</span></p>
+  </div>
+</section>
+
+<section>
+  <h2>🛠️ Tech Stack</h2>
+  <div class="card">
+    <h3>Frontend</h3>
+    <span class="tag">React.js</span>
+    <span class="tag">Vue.js</span>
+    <span class="tag">JavaScript</span>
+    <span class="tag">TypeScript</span>
+    <span class="tag">HTML5</span>
+    <span class="tag">CSS3</span>
+    <span class="tag">Bootstrap</span>
+  </div>
+
+  <div class="card">
+    <h3>Backend</h3>
+    <span class="tag">Java</span>
+    <span class="tag">Spring Boot</span>
+    <span class="tag">Node.js</span>
+    <span class="tag">Express.js</span>
+    <span class="tag">PHP</span>
+    <span class="tag">Laravel</span>
+    <span class="tag">Python</span>
+    <span class="tag">Django</span>
+  </div>
+
+  <div class="card">
+    <h3>APIs & Architecture</h3>
+    <span class="tag">REST APIs</span>
+    <span class="tag">GraphQL</span>
+    <span class="tag">Microservices</span>
+  </div>
+
+  <div class="card">
+    <h3>Database & Tools</h3>
+    <span class="tag">MySQL</span>
+    <span class="tag">Git</span>
+    <span class="tag">GitHub</span>
+    <span class="tag">Webpack</span>
+    <span class="tag">NPM</span>
+  </div>
+
+  <div class="card">
+    <h3>Blockchain</h3>
+    <span class="tag">Solidity</span>
+    <span class="tag">Web3</span>
+  </div>
+</section>
+
+<section>
+  <h2>💼 Professional Experience</h2>
+  <div class="card">
+    <ul>
+      <li>✔️ Developed responsive UI using React.js & Vue.js</li>
+      <li>✔️ Built reusable components</li>
+      <li>✔️ Designed REST & GraphQL APIs</li>
+      <li>✔️ Optimized performance and scalability</li>
+      <li>✔️ Debugged complex issues</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>⚡ Key Skills</h2>
+  <div class="card">
+    <ul>
+      <li>✔️ Strong JavaScript & OOP concepts</li>
+      <li>✔️ React Hooks & Redux (Thunk, Saga)</li>
+      <li>✔️ Server-Side Rendering (SSR)</li>
+      <li>✔️ Performance optimization</li>
+      <li>✔️ Business to technical translation</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>🚀 Projects</h2>
+  <div class="card">
+    <p>✔️ Built and deployed live applications</p>
+    <p>✔️ Full-stack & blockchain project experience</p>
+  </div>
+</section>
+
+<section>
+  <h2>🌱 Currently</h2>
+  <div class="card">
+    <p>📌 Exploring advanced system design</p>
+    <p>📌 Improving blockchain skills</p>
+  </div>
+</section>
+
+<section>
+  <h2>🤝 Let's Connect</h2>
+  <div class="card">
+    <p>I'm open to collaboration, freelance work, and new opportunities.</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Bhoopendra Chaurasia | Portfolio</p>
+</footer>
+
+</body>
+</html>
