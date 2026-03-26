@@ -17,8 +17,7 @@
   <h2>👨‍💻 About Me</h2>
   <div class="card">
     <p  style="color:blue;">
-      I am a <span class="highlight">Senior Full Stack Developer</span> with strong experience in building scalable and high-performance web and enterprise applications.
-      I specialize in both frontend and backend development, delivering end-to-end solutions.
+      Highly skilled Full Stack Developer with over 4 years of experience in Java, Spring Boot, Microservices architecture, React, and relational databases. Passionate about writing clean, maintainable, and performance-driven code. Demonstrates strong problem-solving abilities and a collaborative mindset, consistently contributing to the delivery of high-quality solutions within Agile environments.
     </p>
     <p>💡 Passionate about learning new technologies</p>
     <p>📈 Experienced in production-level projects</p>
