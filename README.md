@@ -108,7 +108,8 @@
 
 </section>
 
-<section><section>
+<section>
+  
   <h2>Projects</h2>
 
   <div class="grid">
