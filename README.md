@@ -112,19 +112,19 @@
   
   <h2>Projects</h2>
 
-  <div class="grid">
+  <div>
 
-    <div class="card">
+    <div>
       <h3>Trainer–Student System</h3>
       <p>RBAC, JWT, attendance tracking</p>
     </div>
 
-    <div class="card">
+    <div>
       <h3>Clinic Management</h3>
       <p>Appointments, billing, secure APIs</p>
     </div>
 
-    <div class="card">
+    <div>
       <h3>Restaurant System</h3>
       <p>Orders, reservations, dashboards</p>
     </div>
