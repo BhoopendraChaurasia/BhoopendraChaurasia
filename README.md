@@ -107,27 +107,7 @@
 
 </section>
 
-<section>
-  <h2>Projects</h2>
 
-  <div class="grid">
-
-    <div class="card">
-      <h3>Trainer–Student System</h3>
-      <p>RBAC, JWT, attendance tracking</p>
-    </div>
-
-    <div class="card">
-      <h3>Clinic Management</h3>
-      <p>Appointments, billing, secure APIs</p>
-    </div>
-
-    <div class="card">
-      <h3>Restaurant System</h3>
-      <p>Orders, reservations, dashboards</p>
-    </div>
-
-  </div>
 </section>
 
 <footer>
