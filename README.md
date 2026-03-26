@@ -107,7 +107,6 @@
 
 </section>
 
-<!-- PROJECTS -->
 <section>
   <h2>Projects</h2>
 
