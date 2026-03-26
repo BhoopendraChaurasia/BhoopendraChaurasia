@@ -73,51 +73,61 @@
 </section>
 
 <section>
-  <h2>💼 Professional Experience</h2>
-  <div class="card">
+  <h2>Experience</h2>
+
+  <div class="card exp">
+    <h3>Nadsoft</h3>
+    <span>Jan 2025 – Present</span>
     <ul>
-      <li>✔️ Developed responsive UI using React.js & Vue.js</li>
-      <li>✔️ Built reusable components</li>
-      <li>✔️ Designed REST & GraphQL APIs</li>
-      <li>✔️ Optimized performance and scalability</li>
-      <li>✔️ Debugged complex issues</li>
+      <li>Reduced API response time by 45%</li>
+      <li>Built scalable microservices</li>
+      <li>Kafka-based async processing</li>
     </ul>
   </div>
-</section>
 
-<section>
-  <h2>⚡ Key Skills</h2>
-  <div class="card">
+  <div class="card exp">
+    <h3>Yudha Tech</h3>
+    <span>2024</span>
     <ul>
-      <li>✔️ Strong JavaScript & OOP concepts</li>
-      <li>✔️ React Hooks & Redux (Thunk, Saga)</li>
-      <li>✔️ Server-Side Rendering (SSR)</li>
-      <li>✔️ Performance optimization</li>
-      <li>✔️ Business to technical translation</li>
+      <li>Developed REST APIs</li>
+      <li>Improved DB performance</li>
+      <li>CI/CD pipelines with AWS</li>
     </ul>
   </div>
-</section>
 
-<section>
-  <h2>🚀 Projects</h2>
-  <div class="card">
-    <p>✔️ Built and deployed live applications</p>
-    <p>✔️ Full-stack & blockchain project experience</p>
+  <div class="card exp">
+    <h3>Cyber Impulse</h3>
+    <span>2021 – 2024</span>
+    <ul>
+      <li>Full-stack applications</li>
+      <li>Optimized APIs</li>
+      <li>Docker & Jenkins automation</li>
+    </ul>
   </div>
+
 </section>
 
+<!-- PROJECTS -->
 <section>
-  <h2>🌱 Currently</h2>
-  <div class="card">
-    <p>📌 Exploring advanced system design</p>
-    <p>📌 Improving blockchain skills</p>
-  </div>
-</section>
+  <h2>Projects</h2>
 
-<section>
-  <h2>🤝 Let's Connect</h2>
-  <div class="card">
-    <p>I'm open to collaboration, freelance work, and new opportunities.</p>
+  <div class="grid">
+
+    <div class="card">
+      <h3>Trainer–Student System</h3>
+      <p>RBAC, JWT, attendance tracking</p>
+    </div>
+
+    <div class="card">
+      <h3>Clinic Management</h3>
+      <p>Appointments, billing, secure APIs</p>
+    </div>
+
+    <div class="card">
+      <h3>Restaurant System</h3>
+      <p>Orders, reservations, dashboards</p>
+    </div>
+
   </div>
 </section>
 
