@@ -8,7 +8,7 @@
 <header>
   <h1 align="center">👨‍💻 Bhoopendra Chaurasia</h1>
   <p align="center">🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
-  <div style="text-align: center; margin-top: 15px;">
+  <div align="center" margin-top: 15px;">
 
   <a href="mailto:bchaurasia97@gmail.com" class="emoji-link">📧 Email</a>
   
