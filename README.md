@@ -108,29 +108,8 @@
 
 </section>
 
-<section>
-  
-  <h2>Projects</h2>
 
-  <div>
 
-    <div>
-      <h3>Trainer–Student System</h3>
-      <p>RBAC, JWT, attendance tracking</p>
-    </div>
-
-    <div>
-      <h3>Clinic Management</h3>
-      <p>Appointments, billing, secure APIs</p>
-    </div>
-
-    <div>
-      <h3>Restaurant System</h3>
-      <p>Orders, reservations, dashboards</p>
-    </div>
-
-  </div>
-</section>
 
 <footer>
   <p>© 2026 Bhoopendra Chaurasia | <a href="https://bhoopendrachaurasia.github.io/">Portfolio</a></p>
