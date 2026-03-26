@@ -8,7 +8,11 @@
 <header>
   <h1 align="center">👨‍💻 Bhoopendra Chaurasia</h1>
   <p align="center">🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
-  
+  <div class="links">
+    <a href="mailto:bchaurasia97@gmail.com">Email</a>
+    <a href="https://linkedin.com/in/bhoopendrac" target="_blank">LinkedIn</a>
+    <a href="https://github.com/Bhoopendra" target="_blank">GitHub</a>
+  </div>
 </header>
 
 <section>
@@ -107,7 +111,27 @@
 
 </section>
 
+<section><section>
+  <h2>Projects</h2>
 
+  <div class="grid">
+
+    <div class="card">
+      <h3>Trainer–Student System</h3>
+      <p>RBAC, JWT, attendance tracking</p>
+    </div>
+
+    <div class="card">
+      <h3>Clinic Management</h3>
+      <p>Appointments, billing, secure APIs</p>
+    </div>
+
+    <div class="card">
+      <h3>Restaurant System</h3>
+      <p>Orders, reservations, dashboards</p>
+    </div>
+
+  </div>
 </section>
 
 <footer>
