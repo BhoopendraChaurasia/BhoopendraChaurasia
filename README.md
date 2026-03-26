@@ -8,14 +8,8 @@
 <header>
   <h1 align="center">👨‍💻 Bhoopendra Chaurasia</h1>
   <p align="center">🚀 Senior Full Stack Developer | Java | Node.js | React.js | Vue.js</p>
-  <div align="center" margin-top: 15px;">
-
-  <a href="mailto:bchaurasia97@gmail.com" class="emoji-link">📧 Email</a>
-  
-  <a href="https://linkedin.com/in/bhoopendrac" target="_blank" class="emoji-link">💼 LinkedIn</a>
-  
-  <a href="https://github.com/Bhoopendra" target="_blank" class="emoji-link">🐙 GitHub</a>
-
+  <div align="center" margin-top: 15px;" >
+<a href="mailto:bchaurasia97@gmail.com" class="emoji-link">📧 Email</a><a href="https://linkedin.com/in/bhoopendrac" target="_blank" class="emoji-link">💼 LinkedIn</a><a href="https://github.com/Bhoopendra" target="_blank" class="emoji-link">🐙 GitHub</a>
 </div>
 </header>
 
